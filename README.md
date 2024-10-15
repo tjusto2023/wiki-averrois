@@ -42,7 +42,9 @@ O repositório **Wiki-Averrois** contém submódulos, você pode clonar todo o p
 ```bash
 # Clonar o repositório principal com submódulos 
 git clone --recurse-submodules https://github.com/tjusto2023/wiki-averrois.git
+```
 
+```bash
 # Ou, caso já tenha clonado o repositório, inicialize e atualize os submódulos
 git submodule update --init --recursive
 ```
