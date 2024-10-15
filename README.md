@@ -49,9 +49,8 @@ git clone --recurse-submodules https://github.com/tjusto2023/wiki-averrois.git
 git submodule update --init --recursive
 ```
 
-### Atualizando os Submódulos
-
 ```bash
+# Atualizando os submódulos
 git submodule update --remote
 ```
 
