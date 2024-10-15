@@ -1,3 +1,6 @@
 [submodule "wiki-averrois-nestjs"]
 	path = wiki-averrois-nestjs
 	url = https://github.com/tjusto2023/wiki-averrois-nestjs.git
+[submodule "wikiaverrois-angular"]
+	path = wikiaverrois-angular
+	url = https://github.com/tjusto2023/wiki-averrois-angular.git

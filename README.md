@@ -4,6 +4,8 @@
 
 O **Wiki-Averrois** é uma plataforma **open source** dedicada à **divulgação científica livre** e ao **debate colaborativo**, inspirada no legado do filósofo [**Averróis**](./averrois.md), que acreditava na união entre razão e conhecimento para o avanço da humanidade. Assim como a **andorinha** simboliza **liberdade**, **renovação** e **comprometimento**, o projeto busca fomentar o **espírito científico**, oferecendo um espaço para que ideias sejam discutidas, aprimoradas e compartilhadas livremente.
 
+O **Wiki-Averrois** busca promover a **renovação constante do conhecimento**, inspirado pela liberdade e comprometido com a integridade, assim como a ciência deve ser – sempre em movimento, como o voo da andorinha.
+
 ## Filosofia do Projeto
 
 A filosofia do **Wiki-Averrois** reflete os princípios fundamentais da **metodologia científica**:
@@ -30,9 +32,26 @@ Seguindo o espírito de **Averróis** e o simbolismo da **andorinha**, o **Wiki-
 - **Desenvolver Funcionalidades**: Participe do desenvolvimento da plataforma e contribua para melhorar a experiência colaborativa.
 - **Sugerir Novos Tópicos**: Crie novas trends e temas de discussão que incentivem o avanço do pensamento científico.
 
----
 
-O **Wiki-Averrois** busca promover a **renovação constante do conhecimento**, inspirado pela liberdade e comprometido com a integridade, assim como a ciência deve ser – sempre em movimento, como o voo da andorinha.
+## Seção de Desenvolvimento
+
+### Clonando o Repositório com Submódulos
+
+O repositório **Wiki-Averrois** contém submódulos, você pode clonar todo o projeto, incluindo os sub-repositórios, com os seguintes comandos:
+
+```bash
+# Clonar o repositório principal com submódulos 
+git clone --recurse-submodules https://github.com/tjusto2023/wiki-averrois.git
+
+# Ou, caso já tenha clonado o repositório, inicialize e atualize os submódulos
+git submodule update --init --recursive
+```
+
+### Atualizando os Submódulos
+
+```bash
+git submodule update --remote
+```
 
 ## Canais de comunicação
 
