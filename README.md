@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-O **Wiki-Averrois** é uma plataforma **open source** dedicada à **divulgação científica livre** e ao **debate colaborativo**, inspirada no legado do filósofo **Averróis**, que acreditava na união entre razão e conhecimento para o avanço da humanidade. Assim como a **andorinha** simboliza **liberdade**, **renovação** e **comprometimento**, o projeto busca fomentar o **espírito científico**, oferecendo um espaço para que ideias sejam discutidas, aprimoradas e compartilhadas livremente.
+O **Wiki-Averrois** é uma plataforma **open source** dedicada à **divulgação científica livre** e ao **debate colaborativo**, inspirada no legado do filósofo [**Averróis**](./averrois.md), que acreditava na união entre razão e conhecimento para o avanço da humanidade. Assim como a **andorinha** simboliza **liberdade**, **renovação** e **comprometimento**, o projeto busca fomentar o **espírito científico**, oferecendo um espaço para que ideias sejam discutidas, aprimoradas e compartilhadas livremente.
 
 ## Filosofia do Projeto
 
@@ -33,3 +33,8 @@ Seguindo o espírito de **Averróis** e o simbolismo da **andorinha**, o **Wiki-
 ---
 
 O **Wiki-Averrois** busca promover a **renovação constante do conhecimento**, inspirado pela liberdade e comprometido com a integridade, assim como a ciência deve ser – sempre em movimento, como o voo da andorinha.
+
+## Canais de comunicação
+
+[![Servidor no Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/s5JFZE2gtH)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+XzKEsUWJe4RmYjgx)
